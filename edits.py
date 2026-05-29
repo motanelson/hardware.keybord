@@ -38,3 +38,6 @@ def starts(tilte:str="editor",backgrounds:str="black",foregrounds:str="white"):
     root=tk.Tk()
     apps=myapp(root,tilte,backgrounds,foregrounds)
     root.mainloop()
+
+
+starts()
